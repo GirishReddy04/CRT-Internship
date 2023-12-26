@@ -1,1 +1,1 @@
-# CRT-Internship
+# MACHINE LEARNING PROJECTS
